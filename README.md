@@ -17,9 +17,7 @@ Welcome to My Profile &nbsp;
 
 [![](https://visitcount.itsvg.in/api?id=KishanAmbani21&icon=0&color=0)](https://visitcount.itsvg.in)</p>
 
-- 🔭 I’m currently working on Java...
-
-- 🌱 I’m currently learning..
+- 🔭 I’m currently working on PHP Laravel...
 
 - 💬 Ask me Any Thing
 
